@@ -32,9 +32,6 @@
 
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 
-6. 🔗 [Assets](#links)
-
-7. 🚀 [More](#more)
 
 ## 🚨 How-to
 
