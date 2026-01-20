@@ -121,6 +121,8 @@ Replace the placeholder values with your actual TMDB API key, Appwrite project I
 ```bash
 
 npx expo start
+OR
+npx expo start --tunnel
 
 ```
 
